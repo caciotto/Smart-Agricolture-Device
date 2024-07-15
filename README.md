@@ -14,4 +14,6 @@ We are going to use:
 	You will find the Python code on the Framework.py file
 	The drivers to upload on the Picoboard for the SGP30 Air Sensor are in the sgp30.py file
 
+Wiring solutions:
+You will find the wiring solutions in the attached images.
 
