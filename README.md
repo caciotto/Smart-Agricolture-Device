@@ -8,7 +8,6 @@ Here's a summary of the process:
 
 We are going to use:
 - DHT11 Sensor (Temperature and Humidity sensor.)
-- SR04 (Ultrasonic Distance Finder)
 - SGP30 (Air Sensor)
 - Soil Moisture Sensor (ADC-based)
 
