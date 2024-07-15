@@ -12,7 +12,7 @@ We are going to use:
 - SGP30 (Air Sensor)
 - Soil Moisture Sensor (ADC-based)
 
-You will find the Python code on the Framework.py file
-The drivers to upload on the Picoboard for the SGP30 Air Sensor are in the sgp30.py file
+	You will find the Python code on the Framework.py file
+	The drivers to upload on the Picoboard for the SGP30 Air Sensor are in the sgp30.py file
 
 
